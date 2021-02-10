@@ -1,1 +1,2 @@
-allauth-env/
+django-allauth-env/
+.vscode/
